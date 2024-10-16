@@ -50,7 +50,6 @@ class MSNotifier {
         }
     }
 }
-new MSNotifier().injectStyles();
 let MSObj = new MSNotifier();
 MSObj.injectStyles();
 const MSLoader = {
